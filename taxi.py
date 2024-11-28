@@ -5,6 +5,7 @@ import sys
 import folium
 import os
 
+print("hello world")
 
 class LoginWindow(QtWidgets.QMainWindow):
     def __init__(self):
